@@ -16,3 +16,14 @@
 \\plutonium\undergrad\sholajay\Profile\Desktop\3020\Film Finder\Film Finder\Film Finder\obj\Debug\Film_Finder.Form1.resources
 \\plutonium\undergrad\sholajay\Profile\Desktop\3020\Film Finder\Film Finder\Film Finder\obj\Debug\Film_Finder.Properties.Resources.resources
 \\plutonium\undergrad\sholajay\Profile\Desktop\3020\Film Finder\Film Finder\Film Finder\obj\Debug\Film Finder.csproj.GenerateResource.Cache
+C:\Users\emekuns\Downloads\Film Finder\Film Finder\bin\Debug\Film Finder.exe.config
+C:\Users\emekuns\Downloads\Film Finder\Film Finder\obj\Debug\Film Finder.exe
+C:\Users\emekuns\Downloads\Film Finder\Film Finder\obj\Debug\Film Finder.pdb
+C:\Users\emekuns\Downloads\Film Finder\Film Finder\obj\Debug\Film Finder.csprojResolveAssemblyReference.cache
+C:\Users\emekuns\Downloads\Film Finder\Film Finder\obj\Debug\Film_Finder.Form1.resources
+C:\Users\emekuns\Downloads\Film Finder\Film Finder\obj\Debug\Film_Finder.Properties.Resources.resources
+C:\Users\emekuns\Downloads\Film Finder\Film Finder\obj\Debug\Film Finder.csproj.GenerateResource.Cache
+C:\Users\emekuns\Downloads\Film Finder\Film Finder\bin\Debug\Film Finder.exe
+C:\Users\emekuns\Downloads\Film Finder\Film Finder\bin\Debug\Film Finder.pdb
+C:\Users\emekuns\Downloads\Film Finder\Film Finder\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\emekuns\Downloads\Film Finder\Film Finder\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
