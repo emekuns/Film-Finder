@@ -1,4 +1,4 @@
-FILM FINDER
+# FILM FINDER
 
 A .Net application in C# that allows its users to query for information about any type of movie based on
 different attributes (actors, director, movie type, year for movie, etc.).
